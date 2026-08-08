@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Local environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Node / package manager artifacts (if ever used)
+node_modules/
+
+# Playwright CLI artifacts
+.playwright-cli/
